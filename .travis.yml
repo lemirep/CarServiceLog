@@ -1,0 +1,9 @@
+language: cpp
+
+install:
+  - sudo apt-get update
+  - sudo apt-get install qt5-default qttools5-dev-tools
+
+script:
+  - qmake CarServiceLog.pro
+  - make -j 4
