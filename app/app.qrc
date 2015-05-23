@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/FuelEntryDelegate.qml</file>
+        <file>qml/FuelEntryDetail.qml</file>
+        <file>qml/FuelEntryEdit.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/VehicleEntryDelegate.qml</file>
+        <file>qml/VehicleEntryDetail.qml</file>
+        <file>qml/VehicleEntryEdit.qml</file>
+        <file>qml/components/FuelTypesComboBox.qml</file>
+        <file>qml/components/LiquidUnitComboxBox.qml</file>
+        <file>qml/components/DistanceUnitComboxBox.qml</file>
+        <file>qml/components/CurrencyUnitComboxBox.qml</file>
+        <file>qml/components/DateDialog.qml</file>
+    </qresource>
+</RCC>
